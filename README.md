@@ -1,2 +1,2 @@
 # consistent-hash
-A consistent hash implementation in Java, which supports virtual nodes.
+A simple consistent hash implementation in Java, which supports virtual nodes.
